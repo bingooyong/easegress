@@ -62,7 +62,7 @@ require (
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.7.2-0.20210315083015-52536944d5ba
 	github.com/tcnksm/go-httpstat v0.2.1-0.20191008022543-e866bb274419
-	github.com/tidwall/gjson v1.6.8
+	github.com/tidwall/gjson v1.9.3
 	github.com/tomasen/realip v0.0.0-20180522021738-f0c99a92ddce
 	github.com/valyala/fasttemplate v1.2.1
 	github.com/xeipuuv/gojsonpointer v0.0.0-20180127040702-4e3ac2762d5f // indirect
